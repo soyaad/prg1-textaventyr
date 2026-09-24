@@ -17,6 +17,7 @@ if choise2.lower() == "open" :
     if choise3.lower() == "red": 
         print(f"of course you choose the red light to be smart, and it seems that you are right ")
         print(f"you end ut at the red light and you find a exit door. You opend the door and wake up in your own bed, it was just a silly dream")
+        print("you won!")
         exit()
     else : 
         print(f"you went whit the smart answer and choose the green ligt cuz green=good.")
@@ -30,14 +31,15 @@ else:
     print(f"you decide to look around the door and you end up finding another door.")
 
     print(f"you decide to go opend the door")
-    choise4=input(f"you enter the door but you end up falling down a deep hole. At the end of the hole you see a dark pit and a door. what do you choose (dark pit/door)")
+    choise4=input(f"{name} enters the door but end up falling down a deep hole. At the end of the hole you see a dark pit and a door. what do you choose (dark pit/door)")
     if choise4.lower() == "dark pit" :
         print(f"you jump down the pit because you want to but you end up landing on a pile of spikes and die")
         print(f"game over, {name} what did you think would happend??")
         exit()
 
     else:
-        print(f"you open the door and ypu end up waking up in your bed")
+        print(f"you open the door and you end up waking up in your bed at home")
+        print("you won!")
         exit()
 
  

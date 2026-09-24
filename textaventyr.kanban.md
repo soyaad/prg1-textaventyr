@@ -8,11 +8,11 @@
 
 ## In Progress
 
+## Done
+
 #### Skriv berättelsen
 <!-- id: task-1789371029039-86 -->
 <!-- priority: critical -->
-
-## Done
 
 #### Klona repot
 <!-- id: task-1789371224632-115 -->
