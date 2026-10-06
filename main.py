@@ -41,6 +41,7 @@ else:
         print(f"you open the door and you end up waking up in your bed at home")
         print("you won!")
         exit()
+
     
 
  

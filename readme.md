@@ -20,12 +20,14 @@ Uppgiften är av programmeringskaraktär, men du behöver också göra planering
 
 ## Vad berättelsen handlar om
 
-En eller två meningar.
+Den handlar om att spelaren färdas i en främmande värld där spelarens mål är att utforska stället
 
 ## Vägvalen
 
-Vilka val spelaren gör, och vart de leder.
+Vilka val spelaren gör, och vart de leder. valen är mellan dörrar och vägar, blå eller grön dörr? (ena fortsätter i stroyn andra dör den)
 
 ## Det som var svårast
+svårast var nog att komma på hur man ville berättelse skulle sluta
 
 ## Om jag hade mer tid
+jag vet inte, kanske om jag hade 1 år på mig skulle jag nog utökat med mer story och alternativ / vägar
