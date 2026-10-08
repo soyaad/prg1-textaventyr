@@ -19,6 +19,7 @@ if choise2.lower() == "open" :
         print(f"you end ut at the red light and you find a exit door. You opend the door and wake up in your own bed, it was just a silly dream")
         print("you won!")
         exit()
+    
     else : 
         print(f"you went whit the smart answer and choose the green ligt cuz green=good.")
         print(f"you walk up to the light and relize it not a light, its a gigant anglerfish. u get eaten")
